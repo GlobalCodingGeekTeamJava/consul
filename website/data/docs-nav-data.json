@@ -630,6 +630,24 @@
         ]
       },
       {
+        "title": "Releases",
+        "routes": [
+          {
+            "title": "Overview",
+            "path": "release-notes"
+          },
+          {
+            "title": "Release Notes",
+            "routes": [
+              {
+                "title": "Overview",
+                "path": "release-notes"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Helm Chart Configuration",
         "path": "k8s/helm"
       },
@@ -821,6 +839,7 @@
           {
             "title": "v0.5.0",
             "path": "nia/release-notes/0-5-0"
+
           }
         ]
       }
