@@ -634,7 +634,7 @@
         "routes": [
           {
             "title": "Overview",
-            "path": "releases/release-notes"
+            "path": "releases"
           },
           {
             "title": "Release Notes",
