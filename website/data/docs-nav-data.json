@@ -634,14 +634,26 @@
         "routes": [
           {
             "title": "Overview",
-            "path": "release-notes"
+            "path": "releases"
           },
           {
             "title": "Release Notes",
             "routes": [
               {
                 "title": "Overview",
-                "path": "release-notes"
+                "path": "releases/release-notes"
+              },
+              {
+                "title": "v1.9.0",
+                "path": "releases/release-notes/1-9-0"
+              },
+              {
+                "title": "v1.10.0",
+                "path": "releases/release-notes/1-10-0"
+              },
+              {
+                "title": "v1.11.0",
+                "path": "releases/release-notes/1-11-0"
               }
             ]
           }
